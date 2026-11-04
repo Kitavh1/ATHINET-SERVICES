@@ -46,7 +46,7 @@ button, a { -webkit-tap-highlight-color: transparent; }
 
 .site-header {
   position: sticky; top: 0; z-index: 20;
-  background: rgba(9, 11, 12, 0.88); border-bottom: 1px solid var(--border);
+  background:  rgba(6, 19, 45, 0.88); border-bottom: 1px solid var(--border);
   backdrop-filter: blur(16px);
 }
 .nav-wrapper { display: flex; min-height: 82px; align-items: center; justify-content: space-between; gap: 2rem; }
